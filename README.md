@@ -12,7 +12,7 @@ I’m a Software Engineer and AI enthusiast with a passion for building efficien
 </p>
 <br>
 
-<h3 align="left">🚀 What I Do<h3>
+<h3 align="left">🚀 What I Do</h3>
 <p>
 	• Full-Stack Development: Architecting scalable applications using ReactJS, NodeJS, VueJS, PostgreSQL, MongoDB <br>
 	• Cloud Computing: Building and deploying cloud-based solutions with AWS, GCP, Azure, Docker, Kubernetes <br>
@@ -22,7 +22,7 @@ I’m a Software Engineer and AI enthusiast with a passion for building efficien
  </p>
 <br>
 
-<h3 align="left">💼 Professional Experience <h3><br>
+<h3 align="left">💼 Professional Experience </h3><br>
  <p>
 
 At the Rutgers Center for Cognitive Science (RuCCS), I am currently working as a Software Engineer, where I designed and deployed a scalable full-stack software solution for the Psychology Department. This system handles 10,000+ rows of data per lab, optimizing database query response time from 2.5 seconds to 800ms. Security was a major focus, and I integrated JWT Authentication, successfully preventing 200+ unauthorized access attempts, while efficiently processing 500+ API calls per second. To enhance system performance, I implemented Redis caching, which significantly reduced latency by 50ms per transaction, improving operational efficiency for 50+ researchers across three labs. <br>
