@@ -11,9 +11,9 @@ I’m a Software Engineer and AI enthusiast with a passion for building efficien
 <a href="https://www.leetcode.com/suhaskollur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suhaskollur" height="30" width="40" /></a>
 </p>
 <br>
-<p>
+
 <h3 align="left">🚀 What I Do<h3>
-	<br>
+<p>
 	• Full-Stack Development: Architecting scalable applications using ReactJS, NodeJS, VueJS, PostgreSQL, MongoDB <br>
 	• Cloud Computing: Building and deploying cloud-based solutions with AWS, GCP, Azure, Docker, Kubernetes <br>
 	• Machine Learning & AI: Implementing deep learning and predictive models for data-driven insights <br>
@@ -21,9 +21,9 @@ I’m a Software Engineer and AI enthusiast with a passion for building efficien
 	• MLOps & DevOps: Automating and streamlining ML models and software deployments <br>
  </p>
 <br>
- <p>
 
 <h3 align="left">💼 Professional Experience <h3><br>
+ <p>
 
 At the Rutgers Center for Cognitive Science (RuCCS), I am currently working as a Software Engineer, where I designed and deployed a scalable full-stack software solution for the Psychology Department. This system handles 10,000+ rows of data per lab, optimizing database query response time from 2.5 seconds to 800ms. Security was a major focus, and I integrated JWT Authentication, successfully preventing 200+ unauthorized access attempts, while efficiently processing 500+ API calls per second. To enhance system performance, I implemented Redis caching, which significantly reduced latency by 50ms per transaction, improving operational efficiency for 50+ researchers across three labs. <br>
 
