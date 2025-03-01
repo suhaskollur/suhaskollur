@@ -1,6 +1,6 @@
-<h1 align="left">Hi 👋, I'm Suhas Kollur</h1>
+<h1 align="center">Hi 👋, I'm Suhas Kollur</h1>
 
-I’m a Software Engineer and AI enthusiast with a passion for building efficient, scalable, and impactful software solutions. With hands-on experience in full-stack development, cloud computing, and AI/ML, I specialize in transforming complex problems into robust and high-performance applications.
+I’m a Software Engineer and AI enthusiast with a passion for building efficient, scalable, and impactful software solutions. With hands-on experience in full-stack development, cloud computing, and AI/ML, I specialize in transforming complex problems into robust and high-performance applications. <br>
 
 🎓 Master of Science in Software Engineering | Rutgers University (2023-2025) <br>
 🎓 B.Tech in Electronics & Communication Engineering | PES University (2019-2023) <br>
@@ -10,16 +10,30 @@ I’m a Software Engineer and AI enthusiast with a passion for building efficien
 <a href="https://linkedin.com/in/suhas-k2411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhas-k2411" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/suhaskollur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suhaskollur" height="30" width="40" /></a>
 </p>
-
+<br>
 <p>
-🚀 What I Do
+🚀 What I Do <br>
 	• Full-Stack Development: Architecting scalable applications using ReactJS, NodeJS, VueJS, PostgreSQL, MongoDB <br>
 	• Cloud Computing: Building and deploying cloud-based solutions with AWS, GCP, Azure, Docker, Kubernetes <br>
 	• Machine Learning & AI: Implementing deep learning and predictive models for data-driven insights <br>
 	• Big Data & Data Engineering: Optimizing data pipelines, storage, and real-time analytics <br>
 	• MLOps & DevOps: Automating and streamlining ML models and software deployments <br>
  </p>
+<br>
+ <p>
 
+💼 Professional Experience <br>
+
+At the Rutgers Center for Cognitive Science (RuCCS), I am currently working as a Software Engineer, where I designed and deployed a scalable full-stack software solution for the Psychology Department. This system handles 10,000+ rows of data per lab, optimizing database query response time from 2.5 seconds to 800ms. Security was a major focus, and I integrated JWT Authentication, successfully preventing 200+ unauthorized access attempts, while efficiently processing 500+ API calls per second. To enhance system performance, I implemented Redis caching, which significantly reduced latency by 50ms per transaction, improving operational efficiency for 50+ researchers across three labs. <br>
+
+As a Graduate Teaching Assistant at Rutgers University, I lead weekly recitations for CS170 (Computer Applications for Business), where I mentor students in JavaScript and SQL with a focus on real-world applications. Using interactive coding platforms like Replit and SQL Workbench, I help students improve their programming efficiency by 25%, making learning more engaging and practical. <br>
+
+Previously, I worked as a Software Developer at Bell Telecommunications, where I designed and developed a web application for feature management. The system enabled company teams to dynamically toggle application features based on the server environment, using ReactJS for the frontend and NodeJS with MongoDB for the backend. Additionally, I engineered a high-performance REST API using Java, AWS Lambda, API Gateway, and TypeScript, which reduced processing latency by 30%, leading to faster and more efficient service for over 1,000 users. <br>
+
+During my time as a Research Assistant at PES University’s Center for Cloud Computing & Big Data, I played a key role in automating a machine learning pipeline for processing and analyzing large datasets, which improved data processing efficiency by 40%. I integrated AWS cloud services such as S3, RDS, and IAM to enable large-scale data storage and distributed computing, reducing processing costs by 15%. This research led to the successful implementation of real-time predictions with response times under 200ms, significantly enhancing data-driven decision-making. <br>
+  
+ </p>
+<br>
 Languages
 
 🐍 Python | 💻 C++ | ☕ Java | 🌐 JavaScript | 📊 SQL | 📌 C# | 🌍 HTML/CSS | 🐘 PHP
