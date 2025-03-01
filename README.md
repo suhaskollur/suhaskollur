@@ -2,8 +2,8 @@
 
 I’m a Software Engineer and AI enthusiast with a passion for building efficient, scalable, and impactful software solutions. With hands-on experience in full-stack development, cloud computing, and AI/ML, I specialize in transforming complex problems into robust and high-performance applications.
 
-🎓 Master of Science in Software Engineering | Rutgers University (2023-2025)
-🎓 B.Tech in Electronics & Communication Engineering | PES University (2019-2023)
+🎓 Master of Science in Software Engineering | Rutgers University (2023-2025) <br>
+🎓 B.Tech in Electronics & Communication Engineering | PES University (2019-2023) <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,12 +11,14 @@ I’m a Software Engineer and AI enthusiast with a passion for building efficien
 <a href="https://www.leetcode.com/suhaskollur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suhaskollur" height="30" width="40" /></a>
 </p>
 
+<p>
 🚀 What I Do
-	•	Full-Stack Development: Architecting scalable applications using ReactJS, NodeJS, VueJS, PostgreSQL, MongoDB
-	•	Cloud Computing: Building and deploying cloud-based solutions with AWS, GCP, Azure, Docker, Kubernetes
-	•	Machine Learning & AI: Implementing deep learning and predictive models for data-driven insights
-	•	Big Data & Data Engineering: Optimizing data pipelines, storage, and real-time analytics
-	•	MLOps & DevOps: Automating and streamlining ML models and software deployments
+	• Full-Stack Development: Architecting scalable applications using ReactJS, NodeJS, VueJS, PostgreSQL, MongoDB <br>
+	• Cloud Computing: Building and deploying cloud-based solutions with AWS, GCP, Azure, Docker, Kubernetes <br>
+	• Machine Learning & AI: Implementing deep learning and predictive models for data-driven insights <br>
+	• Big Data & Data Engineering: Optimizing data pipelines, storage, and real-time analytics <br>
+	• MLOps & DevOps: Automating and streamlining ML models and software deployments <br>
+ </p>
 
 Languages
 
