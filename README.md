@@ -20,7 +20,7 @@ I’m a Software Engineer and AI enthusiast with a passion for building efficien
 	• MLOps & DevOps: Automating and streamlining ML models and software deployments <br>
  </p>
 
-<h3 align="left">💼 Professional Experience </h3><br>
+<h3 align="left">💼 Professional Experience </h3>
  <p>
 
 At the Rutgers Center for Cognitive Science (RuCCS), I am currently working as a Software Engineer, where I designed and deployed a scalable full-stack software solution for the Psychology Department. This system handles 10,000+ rows of data per lab, optimizing database query response time from 2.5 seconds to 800ms. Security was a major focus, and I integrated JWT Authentication, successfully preventing 200+ unauthorized access attempts, while efficiently processing 500+ API calls per second. To enhance system performance, I implemented Redis caching, which significantly reduced latency by 50ms per transaction, improving operational efficiency for 50+ researchers across three labs. <br>
@@ -28,8 +28,6 @@ At the Rutgers Center for Cognitive Science (RuCCS), I am currently working as a
 As a Graduate Teaching Assistant at Rutgers University, I lead weekly recitations for CS170 (Computer Applications for Business), where I mentor students in JavaScript and SQL with a focus on real-world applications. Using interactive coding platforms like Replit and SQL Workbench, I help students improve their programming efficiency by 25%, making learning more engaging and practical. <br>
 
 Previously, I worked as a Software Developer at Bell Telecommunications, where I designed and developed a web application for feature management. The system enabled company teams to dynamically toggle application features based on the server environment, using ReactJS for the frontend and NodeJS with MongoDB for the backend. Additionally, I engineered a high-performance REST API using Java, AWS Lambda, API Gateway, and TypeScript, which reduced processing latency by 30%, leading to faster and more efficient service for over 1,000 users. <br>
-
-During my time as a Research Assistant at PES University’s Center for Cloud Computing & Big Data, I played a key role in automating a machine learning pipeline for processing and analyzing large datasets, which improved data processing efficiency by 40%. I integrated AWS cloud services such as S3, RDS, and IAM to enable large-scale data storage and distributed computing, reducing processing costs by 15%. This research led to the successful implementation of real-time predictions with response times under 200ms, significantly enhancing data-driven decision-making. <br>
   
  </p>
 
